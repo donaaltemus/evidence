@@ -2,11 +2,7 @@
 
 
 
-	} 
-body{
-
-	background-image: url('assets/img/marble_back.jpg')
-}
+	
 
 P { text-align: center }
 
@@ -14,6 +10,12 @@ P { text-align: center }
 font-family {
 
 	helvetica; 
+}
+
+h1 {
+
+
+	color:blue;
 }
 
 h2{
