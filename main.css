@@ -5,7 +5,10 @@ text-align {
 center;
 
 	} 
+body{
 
+	background-image: url('assests/img/marble_back.jpg')
+}
 
 
 font-family {
