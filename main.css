@@ -1,49 +1,14 @@
 
 
+text-align { 
 
+center;
 
-	.container {
-
-font-color: green
-
-	}
-
+	} 
 
 
 
+font-family {
 
-table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
-
-h1 {
-
-
-	color:blue;
-}
-
-h2{
-
-	
-	color: blue;
-	
-
-}
-table {
-
-	align: center;
-}
-
-td {
-
-
-	border-style: solid;
-	border-color: red;
-	border-width: 1px;
-}
-
-.center {
-    text-align: center;
-    border: 3px solid green;
+	helvetica; 
 }
