@@ -7,11 +7,31 @@ center;
 	} 
 body{
 
-	background-image: url('assests/img/marble_back.jpg')
+	background-image: url('assests/-webkit-animation: ;-o-animation: ;animation: ;g/marble_back.jpg')
 }
 
 
 font-family {
 
 	helvetica; 
+}
+
+h2{
+
+	
+	color: blue;
+	
+
+}
+table {
+
+	align: center;
+}
+
+td {
+
+
+	border-style: solid;
+	border-color: red;
+	border-width: 1px;
 }
